@@ -1,0 +1,16 @@
+{
+  "name": "elacasse/aws-tools",
+  "description": "Tools to generate reports about AWS usage not easily found on the AWS Console.",
+  "type": "library",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Eric Lacasse",
+      "email": "eric@ericlacasse.ca"
+    }
+  ],
+  "require": {
+    "aws/aws-sdk-php": "^3.233"
+  }
+}
